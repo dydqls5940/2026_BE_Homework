@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/1회차 과제" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2회차 과제" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3회차 과제" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
